@@ -1,4 +1,4 @@
-# password-manager
+# Password-Manager
 
 # 🔐 Password Manager Project (Spring Boot + PostgreSQL + Spring Security)
 
