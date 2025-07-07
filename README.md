@@ -23,7 +23,7 @@ A secure, user-friendly password manager REST API built using **Spring Boot**, *
 
 | Layer              | Tech                                |
 |-------------------|-------------------------------------|
-| Language           | Java 17+                            |
+| Language           | Java 21                            |
 | Framework          | Spring Boot                         |
 | Security           | Spring Security (Session-based)     |
 | Database           | PostgreSQL                          |
@@ -66,7 +66,7 @@ A secure, user-friendly password manager REST API built using **Spring Boot**, *
 
 ### ✅ Prerequisites
 
-- Java 17+
+- Java 21+
 - PostgreSQL installed and running
 - Gradle installed (or use `./gradlew` wrapper)
 
